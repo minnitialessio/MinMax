@@ -1,0 +1,7 @@
+C:\Users\alessio.minniti.ITT\Desktop\MinMax\MinMax\bin\Debug\MinMax.exe.config
+C:\Users\alessio.minniti.ITT\Desktop\MinMax\MinMax\bin\Debug\MinMax.exe
+C:\Users\alessio.minniti.ITT\Desktop\MinMax\MinMax\bin\Debug\MinMax.pdb
+C:\Users\alessio.minniti.ITT\Desktop\MinMax\MinMax\obj\Debug\MinMax.csproj.AssemblyReference.cache
+C:\Users\alessio.minniti.ITT\Desktop\MinMax\MinMax\obj\Debug\MinMax.csproj.CoreCompileInputs.cache
+C:\Users\alessio.minniti.ITT\Desktop\MinMax\MinMax\obj\Debug\MinMax.exe
+C:\Users\alessio.minniti.ITT\Desktop\MinMax\MinMax\obj\Debug\MinMax.pdb
